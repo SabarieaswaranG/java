@@ -9,23 +9,7 @@
 
 
 
-// class EncapsulationEx{
-//     private String name;
-//     public String getName(){
-//         return name;
 
-//     }
-//     public void setName(String name){
-//         this.name=name;
-
-//     }
-
-//     public static void main(String[] args) {
-//         EncapsulationEx obj=new EncapsulationEx();
-//         obj.setName("hai");
-//         System.out.println(obj.getName());
-//     }
-// }
 
 // import java.util.Scanner;
 
@@ -54,7 +38,7 @@
 //     }
 // }
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // class saba{
 //     public static void main(String[] args) {
